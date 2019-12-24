@@ -7,3 +7,7 @@
 https://sites.google.com/site/geliuhaontu/home/
 
 
+https://github.com/mks0601/V2V-PoseNet_RELEASE
+
+
+https://github.com/jsupancic/deep_hand_pose
